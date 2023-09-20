@@ -23,7 +23,7 @@ I'm studying Computer Science at Marmara University 🏛. I'm a passionate learn
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,selenium,tensorflow,git,github,firebase,figma,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,tensorflow,pytorch,selenium,git,github,firebase,figma,vscode&theme=light)](https://skillicons.dev)
 
 #
 
